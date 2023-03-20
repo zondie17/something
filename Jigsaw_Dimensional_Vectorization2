@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T08:25:30.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HIc3NoYjray3MEZuy3ko" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T08:45:35.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q4GK4tNRTM2-4dCX7mUw" version="21.0.6" type="github">
   <diagram name="第 1 页" id="tji0MeQFas8smZjKpAmA">
-    <mxGraphModel dx="1914" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1914" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,6 +411,30 @@
         </mxCell>
         <mxCell id="dbzQkWadgwl1kYYxdzrw-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;container=0;" parent="1" vertex="1">
           <mxGeometry x="902" y="1110" width="659" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="1210" width="244" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;container=0;fontSize=18;" vertex="1" parent="-J04NfydK774TcjzdXhK-7">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-2" value="Dependence, DAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Courier New;" vertex="1" parent="-J04NfydK774TcjzdXhK-7">
+          <mxGeometry x="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;container=0;fontSize=18;" vertex="1" parent="-J04NfydK774TcjzdXhK-7">
+          <mxGeometry y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-4" value="Dependence, no DAC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Courier New;" vertex="1" parent="-J04NfydK774TcjzdXhK-7">
+          <mxGeometry x="30" y="40" width="214" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="1169" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;container=0;fontSize=18;" vertex="1" parent="-J04NfydK774TcjzdXhK-14">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-J04NfydK774TcjzdXhK-13" value="Update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Courier New;" vertex="1" parent="-J04NfydK774TcjzdXhK-14">
+          <mxGeometry x="30" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
