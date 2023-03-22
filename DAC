@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T19:23:13.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PNYcjpc9qIwTaoolvp3k" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T19:30:51.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2fo1bjeVv6JlC19_NvEj" version="21.0.6" type="github">
   <diagram id="NJHRLBPwmJSSnqo_myED" name="Page-1">
     <mxGraphModel dx="1647" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -121,13 +121,13 @@
         <mxCell id="MdTjmGXeUkwYkxhABXv5-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;strokeColor=#EA4A6B;fillColor=none;strokeWidth=2;fontStyle=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="710" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MdTjmGXeUkwYkxhABXv5-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Memory Layout&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontSize=18;fontFamily=Courier New;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="MdTjmGXeUkwYkxhABXv5-47" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Memory Layout&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontSize=21;fontFamily=Courier New;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="150" y="440" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MdTjmGXeUkwYkxhABXv5-48" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Vector Registers&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontFamily=Courier New;fontSize=18;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="MdTjmGXeUkwYkxhABXv5-48" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Vector Registers&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontFamily=Courier New;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="150" y="585" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MdTjmGXeUkwYkxhABXv5-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Scalar Stencil&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontSize=18;fontFamily=Courier New;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="MdTjmGXeUkwYkxhABXv5-49" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Scalar Stencil&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;sketch=1;fontSize=21;fontFamily=Courier New;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="150" y="260" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
